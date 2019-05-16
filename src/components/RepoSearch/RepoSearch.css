@@ -1,0 +1,9 @@
+.btn-search {
+  color: #1EC9AC;
+  background-color: transparent;
+  background-image: none;
+  border-color: #1EC9AC; }
+
+.btn-search:hover {
+  color: #FFF;
+  background-color: #1EC9AC; }

@@ -1,0 +1,12 @@
+.container-header {
+  background-color: #383838;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px; }
+
+h1.title {
+  color: #1EC9AC; }
+
+p.nameCandidato {
+  font-size: 1.5rem;
+  color: #FFF; }

@@ -1,0 +1,20 @@
+.content-form {
+  width: 100%;
+  margin-top: 5%; }
+  .content-form form {
+    width: 75%;
+    margin: 0 auto; }
+    @media screen and (min-width: 769px), print {
+      .content-form form {
+        width: 85%; } }
+    @media screen and (max-width: 768px) {
+      .content-form form {
+        width: 100%; } }
+  .content-form h2 {
+    text-align: center; }
+  .content-form .btn-blue {
+    color: #FFF;
+    background-color: #1EC9AC;
+    border-color: #1EC9AC; }
+  .content-form .btn-blue:hover {
+    border-color: #2B8C7C; }

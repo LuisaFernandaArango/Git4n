@@ -1,0 +1,11 @@
+footer.footer {
+  background-color: #1EC9AC;
+  color: #FFF;
+  position: absolute;
+  bottom: -114px;
+  width: 100%;
+  padding: 15px; }
+  footer.footer .icon {
+    color: #FFF;
+    margin-left: 20px;
+    text-decoration: none; }
